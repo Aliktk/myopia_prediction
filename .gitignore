@@ -16,3 +16,15 @@ __pycache__/
 # venv
 .venv/
 env/
+
+# models
+*.joblib
+
+# data
+*.csv
+
+# outputs
+outputs/
+
+# env
+.venv/
