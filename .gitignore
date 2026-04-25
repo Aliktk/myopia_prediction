@@ -23,8 +23,6 @@ env/
 # data
 *.csv
 
-# outputs
-outputs/
 
 # env
 .venv/
