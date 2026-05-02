@@ -496,7 +496,6 @@ elif page == "About":
 
         **Research project** — MPhil Ophthalmology
         *Investigator:* Syed Ahmad Hassan (2024-MPhil-OP-037)
-        *AI Engineering:* Ali Nawaz
 
         ---
 
